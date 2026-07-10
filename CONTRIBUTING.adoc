@@ -1,0 +1,31 @@
+= Contributing
+
+Thank you for your interest in AI Futures Guide.
+
+== Principles
+
+* Be respectful.
+* Prefer evidence over opinion.
+* Cite reliable sources.
+* Keep language clear and neutral.
+* Distinguish facts from interpretations.
+
+== Pull Requests
+
+Each pull request should address a single topic whenever practical.
+
+Please:
+
+* explain the motivation;
+* describe the changes;
+* update documentation when necessary;
+* keep commits focused.
+
+== Style
+
+The project uses:
+
+* UTF-8
+* AsciiDoc
+* LF line endings
+* Two-space indentation where applicable.

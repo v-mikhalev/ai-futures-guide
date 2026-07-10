@@ -1,0 +1,31 @@
+= Project Roadmap
+
+== Version 0.1
+
+Infrastructure.
+
+* Repository structure
+* Documentation
+* GitHub Actions
+* Build system
+
+== Version 0.2
+
+Book: AI 2040
+
+* Complete manuscript
+* Mermaid diagrams
+* Bibliography
+* Glossary
+
+== Version 0.3
+
+Additional books.
+
+* AI 2027
+* The Coming Wave
+* Superintelligence
+
+== Version 1.0
+
+Stable public release.

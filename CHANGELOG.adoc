@@ -1,0 +1,19 @@
+= Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format loosely follows https://keepachangelog.com/.
+
+== Unreleased
+
+=== Added
+
+* Initial repository structure.
+* Book "Понимая AI 2040: Plan A".
+* Initial documentation.
+
+== v0.1.0
+
+=== Added
+
+* Project created.

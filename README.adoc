@@ -1,0 +1,160 @@
+= AI Futures Guide
+:toc: left
+:toclevels: 2
+
+AI Futures Guide is an open educational project dedicated to the study of
+artificial intelligence, AI governance, AI safety, long-term scenarios,
+and the societal impact of advanced AI systems.
+
+The repository contains original educational materials, analytical books,
+technical documentation, glossaries, diagrams and curated references.
+
+The project is developed as an open knowledge base rather than a single
+book.
+
+== Goals
+
+The primary goals are:
+
+* explain complex AI concepts in accessible language;
+* analyze major books and research reports;
+* separate facts from forecasts and opinions;
+* collect reliable references in one place;
+* build an open educational resource that can evolve over time.
+
+== Repository Structure
+
+[source,text]
+----
+books/
+    ai2040/
+    ai2027/
+    coming-wave/
+    superintelligence/
+
+shared/
+    glossary/
+    bibliography/
+    diagrams/
+    concepts/
+    organizations/
+    timeline/
+
+docs/
+
+.github/
+----
+
+== Books
+
+=== AI 2040
+
+Status: in progress.
+
+An analytical guide to the scenario document
+"AI 2040: Plan A".
+
+The book explains:
+
+* the main ideas;
+* historical context;
+* technical background;
+* AI governance;
+* AI safety;
+* alternative viewpoints.
+
+Additional books will be added as the project develops.
+
+== Principles
+
+The project follows several principles.
+
+=== Evidence first
+
+Whenever possible, factual statements should be supported by reliable
+sources.
+
+=== Independent analysis
+
+Books contained in this repository are independent analytical works.
+
+They are not translations of third-party publications unless explicitly
+stated.
+
+=== Open knowledge
+
+Educational material should remain openly available whenever possible.
+
+== Build
+
+The project uses AsciiDoc.
+
+Future releases will support:
+
+* HTML
+* PDF
+* GitHub Pages
+* Antora
+
+== Roadmap
+
+Version 0.1
+
+* infrastructure
+* repository structure
+* build system
+
+Version 0.2
+
+* AI 2040 completed
+* diagrams
+* bibliography
+* glossary
+
+Version 0.3
+
+* AI 2027
+
+Version 1.0
+
+* complete AI Futures Guide
+
+== Contributing
+
+Contributions are welcome.
+
+Please read:
+
+* CONTRIBUTING.adoc
+* CODE_OF_CONDUCT.md
+
+before submitting pull requests.
+
+== License
+
+Unless otherwise noted:
+
+* Documentation, books and diagrams are licensed under
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+* Source code, scripts and build infrastructure are licensed under
+  the MIT License.
+
+See:
+
+* LICENSE
+* LICENSE-CODE
+* NOTICE
+
+for details.
+
+== Disclaimer
+
+This project is an independent educational initiative.
+
+It is not affiliated with, endorsed by or sponsored by AI Futures Project,
+OpenAI, Anthropic, Google DeepMind, Meta, xAI or any other organization
+mentioned in the repository.
+
+Names, trademarks and copyrighted works remain the property of their
+respective owners.

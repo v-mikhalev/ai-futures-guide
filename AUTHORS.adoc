@@ -1,0 +1,23 @@
+= Authors
+
+This file lists the people who have contributed substantially to the
+AI Futures Guide project.
+
+== Project Founder
+
+* Василий Михалев
+
+== Contributors
+
+Contributions are welcome.
+
+See CONTRIBUTING.adoc for contribution guidelines.
+
+== Acknowledgements
+
+This project builds upon publicly available research, books, technical
+reports and academic literature related to artificial intelligence,
+AI governance and AI safety.
+
+The interpretations, analysis and conclusions presented in this
+repository are those of the project contributors.

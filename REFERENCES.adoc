@@ -1,0 +1,338 @@
+= References
+:toc:
+:toclevels: 2
+
+This document lists the primary references used throughout the
+AI Futures Guide project.
+
+Where possible, links point to official publications, publishers,
+standards organizations, research institutions or project websites.
+
+== Scenario Documents
+
+=== AI Futures Project
+
+* AI 2040: Plan A
++
+https://ai-2027.com/
+
+* AI 2027
++
+https://ai-2027.com/
+
+== Books
+
+=== Artificial Intelligence
+
+* Stuart Russell — Human Compatible
++
+https://humancompatible.ai/
+
+* Nick Bostrom — Superintelligence
++
+https://global.oup.com/academic/product/superintelligence-9780199678112
+
+* Mustafa Suleyman — The Coming Wave
++
+https://www.the-coming-wave.com/
+
+* Max Tegmark — Life 3.0
++
+https://futureoflife.org/life-3-0/
+
+* Pedro Domingos — The Master Algorithm
++
+https://themasteralgorithm.com/
+
+* Melanie Mitchell — Artificial Intelligence: A Guide for Thinking Humans
++
+https://melaniemitchell.me/a-guide-for-thinking-humans/
+
+=== Decision Making
+
+* Daniel Kahneman — Thinking, Fast and Slow
++
+https://us.macmillan.com/books/9780374533557/thinkingfastandslow
+
+== Research Papers
+
+=== Foundation Models
+
+* Attention Is All You Need
++
+https://arxiv.org/abs/1706.03762
+
+* Language Models are Few-Shot Learners (GPT-3)
++
+https://arxiv.org/abs/2005.14165
+
+* GPT-4 Technical Report
++
+https://arxiv.org/abs/2303.08774
+
+* Chinchilla: Training Compute-Optimal Large Language Models
++
+https://arxiv.org/abs/2203.15556
+
+* Scaling Laws for Neural Language Models
++
+https://arxiv.org/abs/2001.08361
+
+* Constitutional AI: Harmlessness from AI Feedback
++
+https://arxiv.org/abs/2212.08073
+
+* Llama 2: Open Foundation and Fine-Tuned Chat Models
++
+https://arxiv.org/abs/2307.09288
+
+=== AI Safety
+
+* Concrete Problems in AI Safety
++
+https://arxiv.org/abs/1606.06565
+
+* Superalignment
++
+https://openai.com/index/introducing-superalignment/
+
+== Standards
+
+=== NIST
+
+* AI Risk Management Framework (AI RMF)
++
+https://www.nist.gov/itl/ai-risk-management-framework
+
+=== ISO
+
+* ISO/IEC 42001 — Artificial Intelligence Management System
++
+https://www.iso.org/standard/81230.html
+
+* ISO/IEC 23894 — Artificial Intelligence Risk Management
++
+https://www.iso.org/standard/77304.html
+
+== Legislation
+
+=== European Union
+
+* EU AI Act
++
+https://artificial-intelligence-act.eu/
+
+=== OECD
+
+* OECD AI Principles
++
+https://oecd.ai/en/ai-principles
+
+== Research Organizations
+
+* AI Futures Project
++
+https://ai-futures.org/
+
+* METR
++
+https://metr.org/
+
+* Epoch AI
++
+https://epoch.ai/
+
+* Center for AI Safety (CAIS)
++
+https://www.safe.ai/
+
+* Centre for the Governance of AI (GovAI)
++
+https://www.governance.ai/
+
+* Stanford HAI
++
+https://hai.stanford.edu/
+
+* RAND Artificial Intelligence
++
+https://www.rand.org/topics/artificial-intelligence.html
+
+* OECD AI Observatory
++
+https://oecd.ai/
+
+* MLCommons
++
+https://mlcommons.org/
+
+* Partnership on AI
++
+https://partnershiponai.org/
+
+== Major AI Companies
+
+* OpenAI
++
+https://openai.com/
+
+* Anthropic
++
+https://www.anthropic.com/
+
+* Google DeepMind
++
+https://deepmind.google/
+
+* Meta AI
++
+https://ai.meta.com/
+
+* Microsoft AI
++
+https://www.microsoft.com/ai
+
+* NVIDIA AI
++
+https://www.nvidia.com/en-us/ai/
+
+* xAI
++
+https://x.ai/
+
+* Mistral AI
++
+https://mistral.ai/
+
+* Cohere
++
+https://cohere.com/
+
+== Conferences
+
+* NeurIPS
++
+https://neurips.cc/
+
+* ICML
++
+https://icml.cc/
+
+* ICLR
++
+https://iclr.cc/
+
+* AAAI
++
+https://aaai.org/
+
+* IJCAI
++
+https://ijcai.org/
+
+== Journals
+
+* Nature Machine Intelligence
++
+https://www.nature.com/natmachintell/
+
+* Journal of Artificial Intelligence Research (JAIR)
++
+https://www.jair.org/
+
+* Communications of the ACM
++
+https://cacm.acm.org/
+
+== Datasets
+
+* Common Crawl
++
+https://commoncrawl.org/
+
+* The Pile
++
+https://pile.eleuther.ai/
+
+* FineWeb
++
+https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+
+* LAION
++
+https://laion.ai/
+
+* ImageNet
++
+https://www.image-net.org/
+
+== Open Source Projects
+
+* Hugging Face
++
+https://huggingface.co/
+
+* Transformers
++
+https://github.com/huggingface/transformers
+
+* PyTorch
++
+https://pytorch.org/
+
+* TensorFlow
++
+https://www.tensorflow.org/
+
+* llama.cpp
++
+https://github.com/ggml-org/llama.cpp
+
+* vLLM
++
+https://github.com/vllm-project/vllm
+
+* Ollama
++
+https://ollama.com/
+
+== Benchmarks & Evaluation
+
+* HELM
++
+https://crfm.stanford.edu/helm/
+
+* Chatbot Arena (LMSYS)
++
+https://lmarena.ai/
+
+* ARC Evals
++
+https://evals.alignment.org/
+
+* SWE-bench
++
+https://www.swebench.com/
+
+* MMLU
++
+https://arxiv.org/abs/2009.03300
+
+== Online Resources
+
+* arXiv
++
+https://arxiv.org/
+
+* Papers with Code
++
+https://paperswithcode.com/
+
+* GitHub
++
+https://github.com/
+
+== Notes
+
+This bibliography is continuously updated as new books, research papers,
+standards and technical reports are incorporated into the project.
