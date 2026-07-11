@@ -2,30 +2,61 @@
 
 Thank you for your interest in AI Futures Guide.
 
+Contributions of all sizes are welcome, including corrections, new
+references, diagrams, editorial improvements and technical fixes.
+
+== Before You Start
+
+Please read the following documents before contributing:
+
+* README.adoc
+* CODE_OF_CONDUCT.adoc
+* editorial/EDITORIAL_GUIDE.adoc
+
 == Principles
 
-* Be respectful.
+* Be respectful and constructive.
 * Prefer evidence over opinion.
 * Cite reliable sources.
-* Keep language clear and neutral.
+* Keep language clear, precise and neutral.
 * Distinguish facts from interpretations.
+* Respect copyright and licensing requirements.
 
 == Pull Requests
 
-Each pull request should address a single topic whenever practical.
+Whenever practical, each pull request should address a single topic.
 
 Please:
 
 * explain the motivation;
-* describe the changes;
+* describe the proposed changes;
+* reference related issues, if applicable;
 * update documentation when necessary;
-* keep commits focused.
+* keep commits focused and logically grouped.
 
-== Style
+== Editorial Contributions
+
+When contributing to book content:
+
+* follow the editorial guidelines;
+* explain new technical terms when first introduced;
+* support factual statements with reliable sources;
+* avoid unnecessary repetition;
+* preserve the overall structure and writing style.
+
+== Technical Requirements
 
 The project uses:
 
-* UTF-8
-* AsciiDoc
-* LF line endings
+* UTF-8 encoding;
+* AsciiDoc;
+* LF line endings;
 * Two-space indentation where applicable.
+
+Please ensure that the documentation builds successfully before submitting
+a pull request.
+
+== Questions
+
+If you are unsure about a proposed change, please open an issue before
+starting significant work.

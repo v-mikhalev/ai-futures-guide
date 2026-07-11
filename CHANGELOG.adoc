@@ -2,18 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
-The format loosely follows https://keepachangelog.com/.
+The format is based on https://keepachangelog.com/.
 
 == Unreleased
 
 === Added
 
 * Initial repository structure.
+* Project documentation.
+* Repository metadata.
 * Book "Понимая AI 2040: Plan A".
-* Initial documentation.
+* Editorial documentation.
 
-== v0.1.0
+== 0.1.0 - YYYY-MM-DD
 
 === Added
 
-* Project created.
+* Initial public release.

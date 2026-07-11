@@ -2,159 +2,123 @@
 :toc: left
 :toclevels: 2
 
-AI Futures Guide is an open educational project dedicated to the study of
-artificial intelligence, AI governance, AI safety, long-term scenarios,
-and the societal impact of advanced AI systems.
+AI Futures Guide is an open-source educational and analytical project
+dedicated to the study of artificial intelligence, AI governance,
+AI safety, long-term AI scenarios and the societal impact of advanced
+AI systems.
 
-The repository contains original educational materials, analytical books,
-technical documentation, glossaries, diagrams and curated references.
+The repository contains original books, educational materials,
+technical documentation, glossaries, diagrams, bibliographies and
+curated references.
 
-The project is developed as an open knowledge base rather than a single
-book.
+Rather than focusing on a single publication, the project is intended
+to become an open knowledge base covering the most important ideas,
+books and research related to the future of artificial intelligence.
 
 == Goals
 
-The primary goals are:
+The project aims to:
 
-* explain complex AI concepts in accessible language;
-* analyze major books and research reports;
-* separate facts from forecasts and opinions;
-* collect reliable references in one place;
+* explain complex AI concepts in clear and accessible language;
+* analyze influential books, reports and research papers;
+* distinguish facts from assumptions, forecasts and opinions;
+* provide historical, technical and policy context;
 * build an open educational resource that can evolve over time.
 
 == Repository Structure
 
+The repository is organized into several major components.
+
 [source,text]
 ----
 books/
-    ai2040/
-    ai2027/
-    coming-wave/
-    superintelligence/
-
 shared/
-    glossary/
-    bibliography/
-    diagrams/
-    concepts/
-    organizations/
-    timeline/
-
 docs/
-
 .github/
 ----
 
 == Books
 
-=== AI 2040
+[cols="2,1"]
+|===
+|Book |Status
 
-Status: in progress.
+|AI 2040
+|In progress
 
-An analytical guide to the scenario document
-"AI 2040: Plan A".
+|The Coming Wave
+|Planned
 
-The book explains:
+|Superintelligence
+|Planned
+|===
 
-* the main ideas;
-* historical context;
-* technical background;
-* AI governance;
-* AI safety;
-* alternative viewpoints.
+Each book is an independent analytical work rather than a translation of
+the original publication, unless explicitly stated otherwise.
 
-Additional books will be added as the project develops.
+== Project Principles
 
-== Principles
+=== Evidence First
 
-The project follows several principles.
-
-=== Evidence first
-
-Whenever possible, factual statements should be supported by reliable
+Whenever practical, factual statements should be supported by reliable
 sources.
 
-=== Independent analysis
+=== Independent Analysis
 
-Books contained in this repository are independent analytical works.
+The analyses, interpretations and conclusions presented in this
+repository are those of the project contributors.
 
-They are not translations of third-party publications unless explicitly
-stated.
-
-=== Open knowledge
+=== Open Knowledge
 
 Educational material should remain openly available whenever possible.
-
-== Build
-
-The project uses AsciiDoc.
-
-Future releases will support:
-
-* HTML
-* PDF
-* GitHub Pages
-* Antora
-
-== Roadmap
-
-Version 0.1
-
-* infrastructure
-* repository structure
-* build system
-
-Version 0.2
-
-* AI 2040 completed
-* diagrams
-* bibliography
-* glossary
-
-Version 0.3
-
-* AI 2027
-
-Version 1.0
-
-* complete AI Futures Guide
 
 == Contributing
 
 Contributions are welcome.
 
-Please read:
+Before contributing, please read:
 
 * CONTRIBUTING.adoc
 * CODE_OF_CONDUCT.md
+* books/ai2040/editorial/EDITORIAL_GUIDE.adoc
 
-before submitting pull requests.
+== Building
+
+The project is written in AsciiDoc.
+
+Documentation can be rendered to formats such as HTML and PDF using
+standard AsciiDoc tooling.
 
 == License
 
+Different parts of this repository are distributed under different
+licenses.
+
 Unless otherwise noted:
 
-* Documentation, books and diagrams are licensed under
-  Creative Commons Attribution 4.0 International (CC BY 4.0).
+* books, documentation and diagrams are licensed under the
+  Creative Commons Attribution 4.0 International (CC BY 4.0);
 
-* Source code, scripts and build infrastructure are licensed under
-  the MIT License.
+* source code, scripts and build infrastructure are licensed under the
+  MIT License.
 
-See:
+For details, see:
 
 * LICENSE
 * LICENSE-CODE
 * NOTICE
 
-for details.
-
 == Disclaimer
 
-This project is an independent educational initiative.
+AI Futures Guide is an independent educational and analytical project.
 
-It is not affiliated with, endorsed by or sponsored by AI Futures Project,
-OpenAI, Anthropic, Google DeepMind, Meta, xAI or any other organization
-mentioned in the repository.
+It is not affiliated with, endorsed by or sponsored by AI Futures
+Project or any other organization or project referenced in this
+repository.
 
-Names, trademarks and copyrighted works remain the property of their
-respective owners.
+References to books, research papers, organizations, products and
+trademarks are provided solely for educational, analytical and
+commentary purposes.
+
+All trademarks and copyrights remain the property of their respective
+owners.

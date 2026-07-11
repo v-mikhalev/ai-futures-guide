@@ -5,10 +5,10 @@
 This document lists the primary references used throughout the
 AI Futures Guide project.
 
-Where possible, links point to official publications, publishers,
-standards organizations, research institutions or project websites.
+Whenever possible, links point to official publications, publishers,
+standards organizations, research institutions and project websites.
 
-== Scenario Documents
+== Core Documents
 
 === AI Futures Project
 
@@ -92,19 +92,17 @@ https://arxiv.org/abs/2307.09288
 +
 https://arxiv.org/abs/1606.06565
 
-* Superalignment
+* OpenAI Superalignment
 +
 https://openai.com/index/introducing-superalignment/
 
-== Standards
+== Standards & Policy
 
-=== NIST
+=== Standards
 
-* AI Risk Management Framework (AI RMF)
+* NIST AI Risk Management Framework (AI RMF)
 +
 https://www.nist.gov/itl/ai-risk-management-framework
-
-=== ISO
 
 * ISO/IEC 42001 — Artificial Intelligence Management System
 +
@@ -114,19 +112,19 @@ https://www.iso.org/standard/81230.html
 +
 https://www.iso.org/standard/77304.html
 
-== Legislation
+=== Policy
 
-=== European Union
-
-* EU AI Act
+* European Union AI Act
 +
 https://artificial-intelligence-act.eu/
 
-=== OECD
-
 * OECD AI Principles
 +
-https://oecd.ai/en/ai-principles
+https://oecd.ai/en/ai-principles/
+
+* UNESCO Recommendation on the Ethics of Artificial Intelligence
++
+https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
 
 == Research Organizations
 
@@ -158,19 +156,11 @@ https://hai.stanford.edu/
 +
 https://www.rand.org/topics/artificial-intelligence.html
 
-* OECD AI Observatory
+* Future of Life Institute
 +
-https://oecd.ai/
+https://futureoflife.org/
 
-* MLCommons
-+
-https://mlcommons.org/
-
-* Partnership on AI
-+
-https://partnershiponai.org/
-
-== Major AI Companies
+== AI Organizations
 
 * OpenAI
 +
@@ -318,7 +308,7 @@ https://www.swebench.com/
 +
 https://arxiv.org/abs/2009.03300
 
-== Online Resources
+== General Resources
 
 * arXiv
 +
@@ -334,5 +324,8 @@ https://github.com/
 
 == Notes
 
-This bibliography is continuously updated as new books, research papers,
-standards and technical reports are incorporated into the project.
+This bibliography is intentionally selective.
+
+It includes the primary books, papers, standards, organizations and
+resources referenced throughout the AI Futures Guide project. Additional
+references are provided within individual books where appropriate.

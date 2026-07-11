@@ -1,5 +1,7 @@
 cff-version: 1.2.0
+
 title: AI Futures Guide
+
 message: >
   If you use this project in academic work, articles or presentations,
   please cite it using the metadata below.
@@ -10,27 +12,43 @@ authors:
   - family-names: Михалев
     given-names: Василий
 
-repository-code: https://github.com/v-mikhalev/ai-futures-guide
-
-license: CC-BY-4.0
-
 abstract: >
   AI Futures Guide is an open educational project dedicated to the
   analysis of AI governance, AI safety, AGI, long-term AI scenarios,
-  and related research. The project includes books, glossaries,
-  diagrams, bibliographies and technical documentation.
+  AI economics and related research. The project includes books,
+  glossaries, diagrams, bibliographies and technical documentation.
+
+repository-code: https://github.com/v-mikhalev/ai-futures-guide
+
+url: https://github.com/v-mikhalev/ai-futures-guide
+
+license: CC-BY-4.0
 
 keywords:
   - artificial intelligence
   - ai safety
   - ai governance
+  - ai alignment
+  - ai policy
+  - ai futures
+  - ai forecasting
+  - ai economics
+  - ai strategy
   - agi
   - asi
   - llm
-  - ai policy
-  - ai futures
-  - ai alignment
 
 language: en
 
 version: 0.1.0
+
+date-released: YYYY-MM-DD
+
+preferred-citation:
+  type: book
+  title: AI Futures Guide
+  authors:
+    - family-names: Михалев
+      given-names: Василий
+  publisher: GitHub
+  year: 2026
