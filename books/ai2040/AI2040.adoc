@@ -1,36 +1,57 @@
 = Понимая AI 2040: Plan A
+
+:author: Василий Михалев
 :doctype: book
 :encoding: utf-8
 :lang: ru
+
+:revnumber: 0.2
+:revdate: YYYY-MM-DD
+
+:description: Аналитическое руководство по сценарию AI 2040: Plan A.
+:keywords: AI, AGI, AI safety, AI governance, AI economics
+
 :toc: left
 :toclevels: 3
 :sectnums:
+
 :icons: font
+:experimental:
+
 :figure-caption: Рисунок
 :table-caption: Таблица
 :example-caption: Пример
 :chapter-label: Глава
 :appendix-caption: Приложение
+
 :source-highlighter: highlight.js
-:experimental:
+
+// Front matter
 
 [preface]
 include::chapters/00-preface.adoc[]
 
-include::chapters/01-introduction.adoc[]
+// Main matter
 
-// Следующие главы будут подключаться по мере готовности.
+include::chapters/01-introduction.adoc[]
 include::chapters/02-plan-a.adoc[]
 include::chapters/03-why-now.adoc[]
 include::chapters/04-the-race.adoc[]
 include::chapters/05-compute.adoc[]
 include::chapters/06-economy.adoc[]
 
-// include::chapters/05-governance.adoc[]
-// include::chapters/06-open-research.adoc[]
-// include::chapters/07-scenario-2030.adoc[]
-// include::chapters/08-scenario-2035.adoc[]
-// include::chapters/09-scenario-2040.adoc[]
-// include::chapters/10-alternative-scenarios.adoc[]
-// include::chapters/11-critical-analysis.adoc[]
-// include::chapters/12-conclusion.adoc[]
+// Planned chapters
+
+// include::chapters/07-governance.adoc[]
+// include::chapters/08-open-research.adoc[]
+// include::chapters/09-scenario-2030.adoc[]
+// include::chapters/10-scenario-2035.adoc[]
+// include::chapters/11-scenario-2040.adoc[]
+// include::chapters/12-alternative-scenarios.adoc[]
+// include::chapters/13-critical-analysis.adoc[]
+// include::chapters/14-conclusion.adoc[]
+
+// Appendices
+
+// include::appendices/glossary.adoc[]
+// include::appendices/bibliography.adoc[]
