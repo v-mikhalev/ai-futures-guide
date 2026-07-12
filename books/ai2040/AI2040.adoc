@@ -1,4 +1,4 @@
-= Понимая AI 2040: Plan A
+= AI 2040: Plan A: Постфактум.
 
 :author: Василий Михалев
 :doctype: book
@@ -8,7 +8,7 @@
 :revnumber: 0.2
 :revdate: YYYY-MM-DD
 
-:description: Аналитическое руководство по сценарию AI 2040: Plan A.
+:description: Мысли вслух после изучения "AI 2040: Plan A".
 :keywords: AI, AGI, AI safety, AI governance, AI economics
 
 :toc: left
