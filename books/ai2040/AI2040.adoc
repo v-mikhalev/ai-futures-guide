@@ -5,8 +5,8 @@
 :encoding: utf-8
 :lang: ru
 
-:revnumber: 0.2
-:revdate: YYYY-MM-DD
+:revnumber: Version 0.2
+:revdate: 2026-07-12
 
 :description: Мысли вслух после изучения "AI 2040: Plan A".
 :keywords: AI, AGI, AI safety, AI governance, AI economics
@@ -33,12 +33,20 @@ include::chapters/00-preface.adoc[]
 
 // Main matter
 
+<<<
 include::chapters/01-introduction.adoc[]
+<<<
 include::chapters/02-plan-a.adoc[]
+<<<
 include::chapters/03-why-now.adoc[]
+<<<
 include::chapters/04-the-race.adoc[]
+<<<
 include::chapters/05-compute.adoc[]
+<<<
 include::chapters/06-economy.adoc[]
+<<<
+include::chapters/07-war.adoc[]
 
 // Planned chapters
 
