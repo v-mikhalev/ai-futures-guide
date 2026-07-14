@@ -47,6 +47,8 @@ include::chapters/05-compute.adoc[]
 include::chapters/06-economy.adoc[]
 <<<
 include::chapters/07-war.adoc[]
+<<<
+include::chapters/08-the-king-of-the-hill.adoc[]
 
 // Planned chapters
 
